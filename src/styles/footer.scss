@@ -1,0 +1,24 @@
+.container{
+
+}
+.footer{
+  background: var(--gray-900, #1E212C);
+}
+.footer__row{
+  display: flex;
+  justify-content: space-between;
+}
+.footer__card{
+  padding: 15px ;
+}
+.footer__card-text{
+  color: gray;
+  font-size: 10px;
+
+}
+.footer__card-title{
+  color: white;
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}

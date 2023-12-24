@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Кебаб Пицца",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "category" : "Пицца",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 2,
+      "title": "Пицца из половинок",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "category" : "Пицца",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 3,
+      "title": "Кебаб Пицца",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "category" : "Пицца",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 4,
+      "title": "Кебаб Пицца",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "category" : "Пицца",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 5,
+      "category" : "Пицца",
+      "title": "Кебаб Пицца",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 6,
+      "title": "Кебаб Пицца",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "category" : "Пицца",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 7,
+      "category" : "Пицца",
+      "title": "Кебаб Пицца",
+      "sm": "30 см, традиционное тесто",
+      "desc": "Донерное мясо из говядины, моцарелла, томаты, красный лук, соленые огурчики, ранч соус, томатный соус",
+      "price": 475,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/105e96ce9c654f3caa6dd3c12b730d83_584x584.webp"
+    },{
+      "id": 8,
+      "category" : "Соусы",
+      "title": "Соус Барбекю",
+      "sm": "25 мл",
+      "desc": null,
+      "price": 25,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/106b742404ff4b71a7047dc26606f256_1875x1875.webp"
+    },{
+      "id": 9,
+      "category" : "Соусы",
+      "title": "Соус Сырный",
+      "sm": "25 мл",
+      "desc": null,
+      "price": 25,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/66fbcad0ee6241c6ab2652d1ece60fba_292x292.webp"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Пицца"
+    },
+    {
+      "id": 2,
+      "name": "Напитки"
+    },
+    {
+      "id": 3,
+      "name": "Десерты"
+    },
+    {
+      "id": 4,
+      "name": "Закуски"
+    },
+    {
+      "id": 5,
+      "name": "Соусы"
+    }
+  ]
+}

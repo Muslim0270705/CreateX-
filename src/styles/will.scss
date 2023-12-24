@@ -1,0 +1,36 @@
+.will{
+  padding: 10px ;
+}
+.will__row{
+  display: flex;
+  justify-content: space-between;
+}
+.will__right{
+  width: 497px;
+  height: 250px;
+  flex-shrink: 0;
+}
+.will__right-desc{
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 20px 0;
+}
+.will__right-title{
+  font-size: 46px;
+  padding: 10px 0;
+}
+.will__right-text{
+  font-size: 15px;
+  padding: 30px 0 10px;
+}
+.will__right-logo{
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+}
+.will__img{
+  float: left;
+  padding: 10px 500px;
+  position: absolute;
+
+}

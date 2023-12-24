@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato',sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+  transition: 0.5s;
+}
+.container{
+  max-width: 1270px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.btn{
+  padding: 13px 40px;
+  color: var(--white, #FFF);
+  font-size: 16px;
+  transition: 0.5s;
+ font-weight: 700;
+  letter-spacing: 0.5px;
+  border-radius: 4px;
+  border: 1px solid var(--btn-gradient,#FF3F3A);
+  background: var(--btn-gradient, linear-gradient(55deg,#FF3F3A 0%,#F75E05 100%));
+  &:hover{
+    background: transparent;
+    color: #FF3F3A;
+    transition: 0.5s;
+  }
+}
+@import "./header.scss";
+@import "enjoy";
+@import "why";
+@import "events";
+@import "do";
+@import "courses";
+@import "will"
+;@import "blog";
+@import "miss";
+@import "footer";
+@import "online";
+@import "team";
+@import "say";

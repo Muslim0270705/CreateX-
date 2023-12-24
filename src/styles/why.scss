@@ -1,0 +1,36 @@
+.why{
+  padding: 180px 0 10px;
+  &__row {
+    display: flex;
+    column-gap: 135px;
+  }
+  &__right{
+    &-suptitle{
+      color: var(--gray-900,#1e212c);
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    &-title{
+      color: var(--gray-900,#1e212c);
+      font-size: 46px;
+      font-weight: 900;
+      margin: 8px 0 40px;
+    }
+    &-text{
+      color: var(--gray-900,#1e212c);
+      font-weight: 400;
+      line-height: 160%;
+      display: flex;
+      column-gap:16px;
+    }
+    &-desc{
+      display: flex;
+      flex-direction: column;
+      row-gap: 12px;
+    }
+    &-btn{
+      margin-top: 48px;
+    }
+  }
+}
